@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>L4sod Deployment</title>
+</head>
+<body>
+		<fieldset>
+			<table>
+				<thead>
+					<th>Names</th>
+					<th>Age</th>
+					<th>Gender</th>
+				</thead>
+				<tbody>
+					<tr>
+						<td>Kalisa</td>
+						<td>John</td>
+						<td>24</td>
+					</tr>
+					<tr>
+						<td>Kamanzi</td>
+						<td>Jeff</td>
+						<td>27</td>
+					</tr>
+					<tr>
+						<td>Kamanzi</td>
+						<td>Jeff</td>
+						<td>27</td>
+					</tr>
+				</tbody>
+			</table>
+		</fieldset>
+</body>
+</html>
